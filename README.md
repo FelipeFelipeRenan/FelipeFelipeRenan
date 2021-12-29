@@ -3,7 +3,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFelipeRenan&layout=compact&theme=vision-friendly-dark" alt="Felipe's stats" />
 
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeFelipeRenan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <!--
 **FelipeFelipeRenan/FelipeFelipeRenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
