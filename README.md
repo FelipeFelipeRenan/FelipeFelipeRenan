@@ -49,7 +49,7 @@
 
 ## 🚀 Featured Projects
 
-- 🔗 [MicroVersa](https://github.com/FelipeFelipeRenan/MicroVersa): A scalable microservices platform inspired by Discord & Meet
+- 🔗 [Goverse](https://github.com/FelipeFelipeRenan/MicroVersa): A scalable microservices platform inspired by Discord & Meet
 - 🔗 [1mao](https://github.com/FelipeFelipeRenan/1mao): Real-time platform for professionals and clients
 - 🔗 [Simple Compiler](https://github.com/FelipeFelipeRenan/simple-compiler): A tiny compiler developed using Golang
 
