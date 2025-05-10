@@ -1,70 +1,88 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" alt="developer gif" />
 </div>
-
-###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=FelipeFelipeRenan.FelipeFelipeRenan&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FelipeFelipeRenan.FelipeFelipeRenan" alt="visitor badge" />
 </div>
 
-###
+<h1 align="center">Hey there, fellow developer 👋</h1>
 
-<h1 align="center">hey there, fellow developer👋</h1>
+---
 
-###
+## 👨‍💻 About Me
 
-<h3 align="left">👩‍💻  About Me</h3>
+- 🇧🇷 I'm Felipe from Brazil
+- 🔭 Currently working as a problem solver (kinda of 😄)
+- 📚 Always learning something new (tech & beyond)
+- 🎧 Music lover in my spare time
+- 💬 Ask me about Go, Java, Docker, and building scalable systems
 
-###
+---
 
-<p align="left">I'm Felipe from Brazil<br><br>- 🔭 I’m working as problem solver (kinda of)<br>- 📚 I'm currently learning all kind of thing<br>- ⚡ In my free time I listen to a lot of music</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+## 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=FelipeFelipeRenan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeFelipeRenan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeFelipeRenan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
 </div>
 
-###
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=FelipeFelipeRenan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="200" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeFelipeRenan&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="180" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeFelipeRenan&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+- 🔗 [MicroVersa](https://github.com/FelipeFelipeRenan/MicroVersa): A scalable microservices platform inspired by Discord & Meet
+- 🔗 [1mao](https://github.com/FelipeFelipeRenan/1mao): Real-time platform for professionals and clients
+- 🔗 [Simple Compiler](https://github.com/FelipeFelipeRenan/simple-compiler): A tiny compiler developed using Golang
+
+---
+
+## 🌱 Currently Learning
+
+- 🧠 Advanced Go (context, concurrency, microservices)
+- ☁️ Cloud-native architecture with Kubernetes & AWS
+- 🔐 OAuth2, JWT & secure service communication
+
+---
+
+## 🎵 Spotify - Recently Played
 
 <div align="center">
   <a href="https://open.spotify.com/user/feliperenanqwerty">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=feliperenanqwerty&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=feliperenanqwerty&count=5" alt="Spotify Recently Played" />
   </a>
 </div>
 
+---
 
-###
+## 📬 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/felipefernandesss" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:feliperenanqwerty@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/FelipeFelipeRenan">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
