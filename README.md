@@ -38,8 +38,6 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=FelipeFelipeRenan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="200" alt="GitHub Streak" />
-  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=FelipeFelipeRenan&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="180" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeFelipeRenan&layout=compact&langs_count=6&theme=dracula&hide_border=false&hide=groovy" height="150" alt="Top Languages" />
@@ -49,7 +47,7 @@
 
 ## 🚀 Featured Projects
 
-- 🔗 [Goverse](https://github.com/FelipeFelipeRenan/MicroVersa): A scalable microservices platform inspired by Discord & Meet
+- 🔗 [Goverse](https://github.com/FelipeFelipeRenan/goverse): A scalable microservices platform inspired by Discord & Meet
 - 🔗 [1mao](https://github.com/FelipeFelipeRenan/1mao): Real-time platform for professionals and clients
 - 🔗 [Simple Compiler](https://github.com/FelipeFelipeRenan/simple-compiler): A tiny compiler developed using Golang
 
